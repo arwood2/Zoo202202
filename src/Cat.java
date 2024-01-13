@@ -1,7 +1,6 @@
-package model;
 
-//added by Kelli
-//confirm that your course comment appears here
+//Original Author: Anita Wood
+// ** Confirm that your course comment appears here
 
 public class Cat {
 	private String name;
@@ -9,12 +8,9 @@ public class Cat {
 	private int age;
 
 	public Cat() {
-		super();
-		// TODO Auto-generated constructor stub
 	}
 
 	public Cat(String name, String color, int age) {
-		super();
 		this.name = name;
 		this.color = color;
 		this.age = age;
@@ -54,3 +50,4 @@ public class Cat {
 	}
 
 }
+
